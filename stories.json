@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ep01",
+    "title": "भालू ब्रूनो और बड़ी छींक | Hindi Kids Cartoon Story",
+    "scenes": [
+      {"hi": "भालू ब्रूनो को दुनिया में सबसे ज़्यादा शहद पसंद था।",
+       "img": "Bruno the bear smiling next to a big pot of honey in a sunny meadow"},
+      {"hi": "एक सुबह उसे शहद का एक बहुत बड़ा मटका मिला। तभी एक फूल ने उसकी नाक में गुदगुदी कर दी।",
+       "img": "Bruno the bear with a funny scrunched face about to sneeze, a pink flower near his nose, honey pot beside him"},
+      {"hi": "आ… आ… आ-छीं! यह अब तक की सबसे बड़ी छींक थी! शहद का मटका उड़ गया, और मेंढक ज़िग भी उड़ गया!",
+       "img": "Bruno the bear sneezing hugely, honey pot and Zig the frog flying through the air, funny chaos"},
+      {"hi": "छपाक! शहद सीधा ब्रूनो के सिर पर गिरा, और ज़िग शहद के ऊपर चिपक गया!",
+       "img": "Honey dripping on Bruno the bear's head with Zig the frog stuck upside down in the honey, funny"},
+      {"hi": "ज़िग हँसा, टर्र टर्र! मैं चिपक गया! तभी मधुमक्खियाँ आ गईं, भन्न भन्न!",
+       "img": "Bruno and Zig laughing, covered in honey, cute bees flying around them"},
+      {"hi": "तो दोस्तों ने सबके साथ शहद बाँटा। क्योंकि बाँटने से शहद और मीठा लगता है। कहानी ख़तम!",
+       "img": "Bruno, Zig and happy bees sharing honey together, hearts in the air, sunset meadow"}
+    ]
+  },
+  {
+    "id": "ep02",
+    "title": "ज़िग का गुम हुआ जूता | Hindi Kids Cartoon Story",
+    "scenes": [
+      {"hi": "एक सुबह मेंढक ज़िग उठा, तो उसका एक जूता गायब था!",
+       "img": "Zig the frog in bed, surprised, wearing only one tiny red boot, bedroom"},
+      {"hi": "उसने बिस्तर के नीचे ढूँढा, अलमारी में ढूँढा, पर जूता कहीं नहीं मिला।",
+       "img": "Zig the frog searching under a bed and inside a cupboard, messy room, funny"},
+      {"hi": "तभी भालू ब्रूनो आया। उसके सिर पर एक अजीब सी टोपी थी। अरे, यह तो ज़िग का जूता था!",
+       "img": "Bruno the bear walking proudly with a tiny red boot on top of his head like a hat"},
+      {"hi": "ब्रूनो बोला, मुझे लगा यह टोपी है! ज़िग इतनी ज़ोर से हँसा कि तालाब में गिर गया, छपाक!",
+       "img": "Zig the frog laughing and falling into a pond with a big splash, Bruno the bear laughing"},
+      {"hi": "ब्रूनो ने माफ़ी माँगी। ज़िग ने कहा, कोई बात नहीं दोस्त, पर किसी की चीज़ लेने से पहले पूछ लेना। कहानी ख़तम!",
+       "img": "Bruno and Zig hugging happily by the pond, red boot back on Zig's foot, rainbow"}
+    ]
+  }
+]
